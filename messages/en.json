@@ -1,6 +1,6 @@
 {
     "person": {
-        "role": "Design Engineer"
+        "role": "Ecommerce Developer"
     },
     "newsletter": {
         "title": "Subscribe to {firstName}'s Newsletter",
@@ -11,8 +11,8 @@
         "label": "Home",
         "title": "{name}'s Portfolio",
         "description": "Portfolio website showcasing my work as a {role}",
-        "headline": "Design engineer and builder",
-        "subline": "I'm Selene, a design engineer at FLY, where I craft intuitive user experiences. After hours, I build my own projects."
+        "headline": "Ecommerce Specialist",
+        "subline": "I'm Waqar, a seasoned Ecommerce developer."
     },
     "about": {
         "label": "About",
@@ -25,14 +25,19 @@
         "work": {
             "title": "Work Experience",
             "experiences": {
-                "FLY": {
+                "VEPPY": {
                     "timeframe": "2022 - Present",
-                    "role": "Senior Design Engineer",
+                    "role": "Ecommerce Specialist",
                     "achievements": "Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.;Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster."
                 },
-                "Creativ3": {
-                    "timeframe": "2018 - 2022",
-                    "role": "Lead Designer",
+                "BlueLogic Digital FZ LLC": {
+                    "timeframe": "Sept 2022 - Preset",
+                    "role": "Senior Software Engineer",
+                    "achievements": "Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.;Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue."
+                },
+                "EG Solution": {
+                    "timeframe": "Dec 2021 - Aug 2022",
+                    "role": "Senior Software Engineer",
                     "achievements": "Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.;Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue."
                 }
             }
